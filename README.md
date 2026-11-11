@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Bayisa Worku — Personal Portfolio
 
 Welcome to my personal portfolio website!
@@ -42,4 +44,10 @@ Aspiring Web Developer
 
 ## License
 
-This project is created for personal learning and portfolio development.
+# This project is created for personal learning and portfolio development.
+
+# portfolio-html-css
+
+My personal portfolio website built with HTML and CSS. It showcases my skills, projects, and personal information with a clean and simple design.
+
+> > > > > > > 08a3dd3c2714b5e6fd3a61b411dab45c23a2f7af
